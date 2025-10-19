@@ -1,9 +1,3 @@
-Perfect 💡  
-Here’s a professionally formatted **English `README.md` (GitHub style)** for the newly uploaded **“25 Project #3-V0.94.pdf”** — i.e., the **SSU-EXT2** project.  
-It’s written for clarity and uses consistent technical documentation style with Markdown syntax (good for actual GitHub use).
-
----
-
 # 🗂️ SSU-EXT2
 
 ## 📘 Overview
